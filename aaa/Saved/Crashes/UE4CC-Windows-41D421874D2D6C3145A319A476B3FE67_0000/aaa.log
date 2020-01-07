@@ -1,0 +1,786 @@
+﻿Log file open, 01/07/20 19:50:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: aaa
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272995
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OneImmersCustom
+LogStreaming: Display: Took  0.070s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-0
+LogInit: Engine Version: 4.20.3-0+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-0+++UE4+Release-4.20
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jan  7 2020 16:34:49
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UnrealEngine-4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.01.07-10.50.49:510][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.07-10.50.49:510][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.07-10.50.49:519][  0]LogHAL: Display: Platform has ~ 16 GB [17053212672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.07-10.50.49:519][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.01.07-10.50.49:519][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.07-10.50.49:519][  0]LogInit: Computer: DESKTOP-VE5PKC6
+[2020.01.07-10.50.49:519][  0]LogInit: User: HP
+[2020.01.07-10.50.49:519][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.07-10.50.49:519][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.07-10.50.49:519][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.07-10.50.49:519][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.07-10.50.49:519][  0]LogMemory: Process Physical Memory: 102.63 MB used, 102.63 MB peak
+[2020.01.07-10.50.49:519][  0]LogMemory: Process Virtual Memory: 94.87 MB used, 94.87 MB peak
+[2020.01.07-10.50.49:519][  0]LogMemory: Physical Memory: 5828.04 MB used,  10435.17 MB free, 16263.21 MB total
+[2020.01.07-10.50.49:519][  0]LogMemory: Virtual Memory: 4643.52 MB used,  10435.17 MB free, 134217728.00 MB total
+[2020.01.07-10.50.49:535][  0]LogInit: Using OS detected language (ko-KR).
+[2020.01.07-10.50.49:535][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.01.07-10.50.49:535][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.01.07-10.50.49:794][  0]LogStreaming: Display: Took  0.258s to InitEngineTextLocalization.
+[2020.01.07-10.50.49:794][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.07-10.50.49:836][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.07-10.50.49:836][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.07-10.50.49:977][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.07-10.50.49:977][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.07-10.50.50:033][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.01.07-10.50.50:033][  0]LogD3D11RHI:       8079/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.07-10.50.50:058][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.01.07-10.50.50:058][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.07-10.50.50:060][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.07-10.50.50:060][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.07-10.50.50:060][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.07-10.50.50:066][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.07-10.50.50:066][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.07-10.50.50:066][  0]LogWindows: EnumDisplayDevices:
+[2020.01.07-10.50.50:066][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.01.07-10.50.50:066][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.07-10.50.50:066][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.07-10.50.50:067][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.07-10.50.50:067][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.07-10.50.50:067][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.07-10.50.50:067][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.07-10.50.50:067][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.01.07-10.50.50:067][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.01.07-10.50.50:068][  0]LogD3D11RHI:   Driver Version: 431.23 (internal:26.21.14.3123, unified:431.23)
+[2020.01.07-10.50.50:068][  0]LogD3D11RHI:      Driver Date: 6-24-2019
+[2020.01.07-10.50.50:068][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.01.07-10.50.50:100][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.07-10.50.50:116][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.07-10.50.50:159][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/HP/Documents/Unreal Projects/aaa/Intermediate/Shaders/WorkingDirectory/13612/).
+[2020.01.07-10.50.50:159][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/6547365A43A1AC9947AF37B7F2A0F930/'.
+[2020.01.07-10.50.50:334][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.07-10.50.50:342][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.07-10.50.50:350][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.07-10.50.50:358][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.07-10.50.50:367][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.07-10.50.50:376][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.07-10.50.50:384][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.07-10.50.50:392][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.07-10.50.50:396][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.07-10.50.50:435][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.07-10.50.50:485][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.07-10.50.50:485][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.07-10.50.50:497][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.07-10.50.50:497][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.07-10.50.50:502][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.07-10.50.50:502][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.07-10.50.50:553][  0]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.07-10.50.50:553][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.07-10.50.50:553][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.07-10.50.50:553][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.07-10.50.51:098][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.07-10.50.51:137][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/HP/Documents/Unreal Projects/aaa/DerivedDataCache/Boot.ddc.
+[2020.01.07-10.50.51:137][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/Documents/Unreal Projects/aaa/DerivedDataCache/Boot.ddc
+[2020.01.07-10.50.51:137][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/HP/Documents/Unreal Projects/aaa/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.07-10.50.51:137][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.07-10.50.51:137][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.07-10.50.51:137][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2020.01.07-10.50.51:149][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2020.01.07-10.50.51:149][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.07-10.50.51:149][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.07-10.50.51:162][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.07-10.50.51:163][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.07-10.50.51:164][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.07-10.50.51:221][  0]LogAssetRegistry: FAssetRegistry took 0.0241 seconds to start up
+[2020.01.07-10.50.51:426][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.07-10.50.51:540][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.07-10.50.51:540][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.07-10.50.51:540][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.07-10.50.51:540][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.07-10.50.51:540][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.07-10.50.51:551][  0]LogNetVersion: aaa 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2280661349)
+[2020.01.07-10.50.51:922][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.078386 seconds
+[2020.01.07-10.50.51:927][  0]LogUObjectArray: 38381 objects as part of root set at end of initial load.
+[2020.01.07-10.50.51:927][  0]LogUObjectAllocator: 6683944 out of 0 bytes used by permanent object pool.
+[2020.01.07-10.50.51:927][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.01.07-10.50.52:233][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:233][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.01.07-10.50.52:234][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:234][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:235][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:235][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:236][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.01.07-10.50.52:236][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.01.07-10.50.52:523][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.07-10.50.52:535][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.07-10.50.52:649][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.01.07-10.50.52:649][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.01.07-10.50.52:650][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.01.07-10.50.52:651][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.01.07-10.50.52:783][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.07-10.50.52:827][  0]LogOcInput: OculusInput pre-init called
+[2020.01.07-10.50.52:840][  0]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/Materials/Widget3DPassThrough_NoDraw.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.50.52:841][  0]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/Materials/Widget3DPassThrough_NoDraw.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.50.52:841][  0]LogUObjectGlobals: Warning: 'MaterialInterface /OneImmersCustom/Materials/Widget3DPassThrough_NoDraw.Widget3DPassThrough_NoDraw' 오브젝트를 찾는 데 실패했습니다.
+[2020.01.07-10.50.52:841][  0]Error: CDO Constructor (StereoLayerWidgetComponent): Failed to find /OneImmersCustom/Materials/Widget3DPassThrough_NoDraw
+
+[2020.01.07-10.50.52:841][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2020.01.07-10.50.52:841][  0]LogUObjectBase: Warning: Error: CDO Constructor (StereoLayerWidgetComponent): Failed to find /OneImmersCustom/Materials/Widget3DPassThrough_NoDraw
+
+[2020.01.07-10.50.54:593][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.01.07-10.50.54:640][  0]LogEngine: Initializing Engine...
+[2020.01.07-10.50.54:660][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.07-10.50.54:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.07-10.50.54:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.07-10.50.54:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.07-10.50.54:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.07-10.50.54:819][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.07-10.50.54:831][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.07-10.50.54:880][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.07-10.50.55:047][  0]LogInit: FAudioDevice initialized.
+[2020.01.07-10.50.55:047][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.07-10.50.55:087][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/HP/Documents/Unreal Projects/aaa/DerivedDataCache/Boot.ddc.
+[2020.01.07-10.50.55:090][  0]LogInit: Texture streaming: Enabled
+[2020.01.07-10.50.55:105][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.07-10.50.55:117][  0]LogInit: Transaction tracking system initialized
+[2020.01.07-10.50.55:141][  0]BlueprintLog: New page: 에디터 로드
+[2020.01.07-10.50.55:211][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.01.07-10.50.55:402][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.07-10.50.55:402][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.07-10.50.55:402][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.07-10.50.55:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.07-10.50.55:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.07-10.50.55:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.07-10.50.55:402][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.07-10.50.55:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP/Documents/Unreal Projects/aaa/Content/' took 0.01s
+[2020.01.07-10.50.55:486][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.01.07-10.50.55:486][  0]Cmd: MAP LOAD FILE="C:/Users/HP/Documents/Unreal Projects/aaa/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.07-10.50.55:486][  0]LightingResults: New page: 라이팅 빌드
+[2020.01.07-10.50.55:489][  0]MapCheck: New page: 맵 체크
+[2020.01.07-10.50.55:489][  0]LightingResults: New page: 라이팅 빌드
+[2020.01.07-10.50.55:791][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.07-10.50.55:799][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.07-10.50.55:819][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.07-10.50.55:855][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 35.959ms.
+[2020.01.07-10.50.55:855][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.369
+[2020.01.07-10.50.55:923][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.01.07-10.50.55:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-10.50.55:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-10.50.55:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-10.50.55:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-10.50.55:969][  0]LogCollectionManager: Loaded 0 collections in 0.001981 seconds
+[2020.01.07-10.50.56:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP/Documents/Unreal Projects/aaa/Saved/Collections/' took 0.01s
+[2020.01.07-10.50.56:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP/Documents/Unreal Projects/aaa/Content/Developers/HP/Collections/' took 0.01s
+[2020.01.07-10.50.56:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP/Documents/Unreal Projects/aaa/Content/Collections/' took 0.01s
+[2020.01.07-10.50.56:007][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.07-10.50.56:014][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2579 classes and 605 folders.
+[2020.01.07-10.50.56:020][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.07-10.50.56:043][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.07-10.50.56:047][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.07-10.50.56:062][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.07-10.50.56:065][  0]LogSlate: Took 0.001833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.01.07-10.50.56:067][  0]LogSlate: Took 0.001633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.01.07-10.50.56:067][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.07-10.50.56:070][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.07-10.50.56:129][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2020.01.07-10.50.56:218][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-10.50.56:231][  0]LogSlate: Window '튜토리얼' being destroyed
+[2020.01.07-10.50.56:269][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.07-10.50.56:269][  0]LogLoad: (Engine Initialization) Total time: 8.26 seconds
+[2020.01.07-10.50.56:269][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.07-10.50.56:298][  0]LogAssetRegistry: Asset discovery search completed in 5.0993 seconds
+[2020.01.07-10.50.56:299][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.01.07-10.50.56:299][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.01.07-10.50.56:300][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.07-10.50.56:319][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.07-10.51.01:226][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-10.51.08:668][470]LogSlate: Window '플러그인' being destroyed
+[2020.01.07-10.51.08:672][470]LogSlate: Window '플러그인' being destroyed
+[2020.01.07-10.51.08:672][470]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.01.07-10.51.08:672][470]LogDirectoryWatcher: A directory notification for 'C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/' was aborted.
+[2020.01.07-10.51.11:199][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-10.52.03:086][753]LogSlate: Window '새 플러그인' being destroyed
+[2020.01.07-10.52.03:089][753]LogSlate: Window '새 플러그인' being destroyed
+[2020.01.07-10.52.45:354][822]LogSlate: Window '새 플러그인' being destroyed
+[2020.01.07-10.52.45:357][822]LogSlate: Window '새 플러그인' being destroyed
+[2020.01.07-10.53.18:742][825]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.07-10.53.18:960][825]LogFileCache: Scanning file cache for directory 'C:/Users/HP/Documents/Unreal Projects/aaa/Content/' took 0.01s
+[2020.01.07-10.53.18:988][825]LogMaterial: Display: Missing cached shader map for material MirrorMaterial, compiling. 
+[2020.01.07-10.53.19:043][825]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.01.07-10.53.19:043][825]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.01.07-10.53.19:043][825]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.01.07-10.53.19:043][825]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.01.07-10.53.19:043][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:044][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:044][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:045][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:046][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:046][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:047][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:048][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:049][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:049][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:050][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:050][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:051][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:051][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:052][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:052][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:052][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:053][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:053][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:054][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:076][825]LogAnimationCompression: Building Anim DDC data for AnimSequence /sample/SampleAssets/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.01.07-10.53.19:076][825]LogAnimationCompression: Recompressing (AnimSequence /sample/SampleAssets/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.07-10.53.19:192][825]LogAnimationCompression: Building Anim DDC data for AnimSequence /sample/SampleAssets/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.01.07-10.53.19:192][825]LogAnimationCompression: Recompressing (AnimSequence /sample/SampleAssets/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.07-10.53.19:221][825]LogAnimationCompression: Building Anim DDC data for AnimSequence /sample/SampleAssets/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.01.07-10.53.19:221][825]LogAnimationCompression: Recompressing (AnimSequence /sample/SampleAssets/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.01.07-10.53.19:336][825]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.07-10.53.19:420][825]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.07-10.53.19:510][825]LogShaderCompilers: Display: Shaders left to compile 256
+[2020.01.07-10.53.19:510][825]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.01.07-10.53.19:577][825]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /sample/SampleAssets/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.01.07-10.53.19:677][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:678][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:678][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:679][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:680][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:680][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:681][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:682][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:683][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:683][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:684][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:684][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:685][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:686][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:686][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:687][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:687][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:688][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePlayerController.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:688][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:689][825]LogLinker: Warning: Unable to load package (C:/Users/HP/Documents/Unreal Projects/aaa/Plugins/Sample/Content/SampleAssets/Blueprints/SamplePawn.uasset) PackageVersion 517, MaxExpected 516 : LicenseePackageVersion 0, MaxExpected 0.
+[2020.01.07-10.53.19:752][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.01.07-10.53.19:752][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:753][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:753][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:753][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:753][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:753][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.01.07-10.53.19:753][825]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_23 (AutoDXT, 64X64)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:861][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_10 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_11 (G8, 128X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_12 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_13 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_14 (G8, 128X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_15 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_16 (G8, 128X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_17 (G8, 128X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_18 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_19 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_20 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_21 (G8, 128X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_22 (G8, 32X32)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (G8, 256X64)
+[2020.01.07-10.53.19:928][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_4 (G8, 256X64)
+[2020.01.07-10.53.19:929][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_5 (G8, 256X64)
+[2020.01.07-10.53.19:929][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_6 (G8, 256X64)
+[2020.01.07-10.53.19:929][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_7 (G8, 256X64)
+[2020.01.07-10.53.19:929][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_8 (G8, 256X64)
+[2020.01.07-10.53.19:929][825]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_9 (G8, 256X64)
+[2020.01.07-10.53.19:929][825]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 512X512)
+[2020.01.07-10.53.19:929][825]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.01.07-10.53.27:504][825]LogShaderCompilers: Display: Shaders left to compile 419
+[2020.01.07-10.53.27:504][825]LogShaderCompilers: Display: Shaders left to compile 418
+[2020.01.07-10.53.27:504][825]LogShaderCompilers: Display: Shaders left to compile 417
+[2020.01.07-10.53.27:504][825]LogShaderCompilers: Display: Shaders left to compile 416
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 415
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 414
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 413
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 412
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 411
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 410
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 409
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 408
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 407
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 406
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 405
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 404
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 403
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 402
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 401
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 400
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 399
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 398
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 397
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 396
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 395
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 394
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 393
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 392
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 391
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 390
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 389
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 388
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 387
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 386
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 385
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 384
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 383
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 382
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 381
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 380
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 379
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 378
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 377
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 376
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 375
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 374
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 373
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 372
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 371
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 370
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 369
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 368
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 367
+[2020.01.07-10.53.27:505][825]LogShaderCompilers: Display: Shaders left to compile 366
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 365
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 364
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 363
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 362
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 361
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 360
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 359
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 358
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 357
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 356
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 355
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 354
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 353
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 352
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 351
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 350
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 349
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 348
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 347
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 346
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 345
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 344
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 343
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 342
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 341
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 340
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 339
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 338
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 337
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 336
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 335
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 334
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 333
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 332
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 331
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 330
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 329
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 328
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 327
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 326
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 325
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 324
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 323
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 322
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 321
+[2020.01.07-10.53.27:506][825]LogShaderCompilers: Display: Shaders left to compile 320
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 319
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 318
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 317
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 316
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 315
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 314
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 313
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 312
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 311
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 310
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 309
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 308
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 307
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 297
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 287
+[2020.01.07-10.53.27:507][825]LogShaderCompilers: Display: Shaders left to compile 277
+[2020.01.07-10.53.27:513][825]LogAIModule: Creating AISystem for world Sample1
+[2020.01.07-10.53.30:104][825]LogShaderCompilers: Display: Shaders left to compile 267
+[2020.01.07-10.53.30:104][825]LogShaderCompilers: Display: Shaders left to compile 257
+[2020.01.07-10.53.30:104][825]LogShaderCompilers: Display: Shaders left to compile 247
+[2020.01.07-10.53.30:104][825]LogShaderCompilers: Display: Shaders left to compile 237
+[2020.01.07-10.53.30:104][825]LogShaderCompilers: Display: Shaders left to compile 227
+[2020.01.07-10.53.30:104][825]LogShaderCompilers: Display: Shaders left to compile 217
+[2020.01.07-10.53.30:104][825]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.525 s
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: 
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\UnrealEngine-4.20\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: Found circular redirect from /sample/SampleMaps/Sample1_BuiltData.Sample1_BuiltData to /sample/SampleMaps/Sample1_BuiltData.Sample1_BuiltData! Returning None instead
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: Stack: 
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8ddad3996 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\unrealengine-4.20\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8dd814a82 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\unrealengine-4.20\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8dd82eaf6 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\unrealengine-4.20\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8fbc41304 UE4Editor-CoreUObject.dll!FRedirectCollector::GetAssetPathRedirection() [d:\unrealengine-4.20\engine\source\runtime\coreuobject\private\misc\redirectcollector.cpp:219]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8fbc06e01 UE4Editor-CoreUObject.dll!FRedirectCollector::AddAssetPathRedirection() [d:\unrealengine-4.20\engine\source\runtime\coreuobject\private\misc\redirectcollector.cpp:181]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8c08915a8 UE4Editor-AssetTools.dll!FAssetRenameManager::RenameReferencingSoftObjectPaths() [d:\unrealengine-4.20\engine\source\developer\assettools\private\assetrenamemanager.cpp:915]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8c0882fe4 UE4Editor-AssetTools.dll!FAssetRenameManager::PerformAssetRename() [d:\unrealengine-4.20\engine\source\developer\assettools\private\assetrenamemanager.cpp:1131]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8c084c905 UE4Editor-AssetTools.dll!FAssetRenameManager::FixReferencesAndRename() [d:\unrealengine-4.20\engine\source\developer\assettools\private\assetrenamemanager.cpp:389]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8c0891189 UE4Editor-AssetTools.dll!UAssetToolsImpl::RenameAssetsWithDialog() [d:\unrealengine-4.20\engine\source\developer\assettools\private\assettools.cpp:631]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8be00bee1 UE4Editor-PluginBrowser.dll!`FPluginHelpers::FixupPluginTemplateAssets'::`2'::FFixupPluginAssets::PerformFixup() [d:\unrealengine-4.20\engine\plugins\editor\pluginbrowser\source\pluginbrowser\private\pluginhelpers.cpp:241]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8bdfe6a4d UE4Editor-PluginBrowser.dll!FPluginHelpers::FixupPluginTemplateAssets() [d:\unrealengine-4.20\engine\plugins\editor\pluginbrowser\source\pluginbrowser\private\pluginhelpers.cpp:259]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8bdff8d5c UE4Editor-PluginBrowser.dll!SNewPluginWizard::OnCreatePluginClicked() [d:\unrealengine-4.20\engine\plugins\editor\pluginbrowser\source\pluginbrowser\private\snewpluginwizard.cpp:822]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8bdfe3244 UE4Editor-PluginBrowser.dll!TBaseSPMethodDelegateInstance<0,SNewPluginWizard,0,FReply __cdecl(void)>::Execute() [d:\unrealengine-4.20\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8f8efff6b UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\unrealengine-4.20\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:290]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8f8cf8da0 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_1002768c627006711ef2f351a87ec0e7> >() [d:\unrealengine-4.20\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:268]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8f8d91933 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\unrealengine-4.20\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5472]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8f8d77b5a UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\unrealengine-4.20\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5979]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff8f8d69bbc UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\unrealengine-4.20\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5959]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff90a85cc15 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\unrealengine-4.20\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1736]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff90a850180 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\unrealengine-4.20\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2182]
+[2020.01.07-10.53.30:104][825]LogOutputDevice: Error: [Callstack] 0x00007ff90a85ed32 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\unrealengine-4.20\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1416]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff90a84c229 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\unrealengine-4.20\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:732]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff9454563ed USER32.dll!UnknownFunction []
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff945455de2 USER32.dll!UnknownFunction []
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff90a85fe86 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\unrealengine-4.20\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff6f38754c3 UE4Editor.exe!FEngineLoop::Tick() [d:\unrealengine-4.20\engine\source\runtime\launch\private\launchengineloop.cpp:3417]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff6f388501c UE4Editor.exe!GuardedMain() [d:\unrealengine-4.20\engine\source\runtime\launch\private\launch.cpp:166]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff6f388509a UE4Editor.exe!GuardedMainWrapper() [d:\unrealengine-4.20\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff6f389314c UE4Editor.exe!WinMain() [d:\unrealengine-4.20\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff6f3894e32 UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff944cc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: [Callstack] 0x00007ff945f0ced1 ntdll.dll!UnknownFunction []
+[2020.01.07-10.53.30:105][825]LogOutputDevice: Error: 
+[2020.01.07-10.53.30:107][825]LogStats:                SubmitErrorReport -  0.000 s
+[2020.01.07-10.53.33:460][825]LogShaderCompilers: Display: Shaders left to compile 207
+[2020.01.07-10.53.33:460][825]LogShaderCompilers: Display: Shaders left to compile 197
+[2020.01.07-10.53.33:460][825]LogShaderCompilers: Display: Shaders left to compile 187

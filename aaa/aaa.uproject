@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{546FAA50-4C7C-AEF2-DFEE-70A748C71EEA}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OneImmersCustom",
+			"Enabled": true
+		}
+	]
+}
