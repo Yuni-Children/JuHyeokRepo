@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SteamVoicePlugin.cpp.obj": [
+			"SteamVoiceComponent.cpp.obj",
+			"SteamVoicePlugin.cpp.obj"
+		],
+		"Module.SteamVoicePlugin.gen.cpp.obj": [
+			"SteamVoiceComponent.gen.cpp.obj",
+			"SteamVoicePlugin.init.gen.cpp.obj"
+		]
+	}
+}

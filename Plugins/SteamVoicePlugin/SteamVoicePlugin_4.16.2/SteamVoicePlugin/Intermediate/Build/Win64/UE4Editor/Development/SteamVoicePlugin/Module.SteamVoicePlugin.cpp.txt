@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Unreal Projects\SteamVoiceExample\Plugins\SteamVoicePlugin-master\SteamVoicePlugin_4.16.2\SteamVoicePlugin\Intermediate\Build\Win64\UE4Editor\Development\SteamVoicePlugin\Definitions.SteamVoicePlugin.h
+C:\Users\HP\Documents\Unreal Projects\SteamVoiceExample\Plugins\SteamVoicePlugin-master\SteamVoicePlugin_4.16.2\SteamVoicePlugin\Source\SteamVoicePlugin\Private\SteamVoiceComponent.cpp
+C:\Users\HP\Documents\Unreal Projects\SteamVoiceExample\Plugins\SteamVoicePlugin-master\SteamVoicePlugin_4.16.2\SteamVoicePlugin\Source\SteamVoicePlugin\Public\SteamVoiceComponent.h
+C:\Users\HP\Documents\Unreal Projects\SteamVoiceExample\Plugins\SteamVoicePlugin-master\SteamVoicePlugin_4.16.2\SteamVoicePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SteamVoicePlugin\SteamVoiceComponent.generated.h
+C:\Users\HP\Documents\Unreal Projects\SteamVoiceExample\Plugins\SteamVoicePlugin-master\SteamVoicePlugin_4.16.2\SteamVoicePlugin\Source\SteamVoicePlugin\Private\SteamVoicePlugin.cpp
+C:\Users\HP\Documents\Unreal Projects\SteamVoiceExample\Plugins\SteamVoicePlugin-master\SteamVoicePlugin_4.16.2\SteamVoicePlugin\Source\SteamVoicePlugin\Public\SteamVoicePlugin.h
